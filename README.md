@@ -5,12 +5,4 @@
  Deeply passionate about modern web development and constantly exploring emerging frameworks, tools, and design trends to stay ahead in the field.
 - 📫 How to reach me : ky0512003@gmail.com
 - 
-🛠️ Tech Stack
-🚀 Frontend
-HTML5 CSS3 JavaScript React  Bootstrap
-
-🎨 UI/UX & Design Tools
-Figma 
-
-⚙️ Backend & Databases
-Python Django Node.js 
+ 
